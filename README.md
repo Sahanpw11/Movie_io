@@ -1,4 +1,4 @@
-**Flutter Movie App README**
+# **Flutter Movie App README**
 
 Welcome to the Flutter Movie App! This app is designed to provide users with an immersive movie browsing experience, allowing them to search for movies and dynamically change the background according to the selected movie poster.
 
