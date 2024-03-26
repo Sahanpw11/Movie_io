@@ -48,4 +48,4 @@ Contributions to the Flutter Movie App are welcome! If you have any suggestions,
 ### 6. License
 The Flutter Movie App is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the codebase according to the terms of the license.
 
-Thank you for using the Flutter Movie App. Enjoy exploring and discovering new movies! 🎬🍿
+Thank you for using the Flutter Movie App this is an ongoing project I am doing this while learning Flutter . Enjoy exploring and discovering new movies! 🎬🍿
